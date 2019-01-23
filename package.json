@@ -1,5 +1,5 @@
 {
-  "name": "card-board",
+  "name": "kiin-board",
   "description": "Pluggable components to add a board to your application",
   "main": "dist/index.js",
   "jsnext:main": "components/index.js",
